@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Quadratic surfaces (demo)" />
+              <option name="title_text" value="Quadratic surfaces (demo 0809)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1595,9 +1595,9 @@
             <slidelink slideid="_player.5iS9277i93H.5uE4UP3Zvtp" displaytext="Hyperboloid of one sheet (2)" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5bNxEJcyf7v" displaytext="Summary and Assessment" expand="true" type="slide">
+        <slidelink slideid="_player.5bNxEJcyf7v" displaytext="Comprehensive quiz" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5bNxEJcyf7v.68PPou6WXK6" displaytext="Comprehensive quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5bNxEJcyf7v.68PPou6WXK6" displaytext="Classification quiz" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
